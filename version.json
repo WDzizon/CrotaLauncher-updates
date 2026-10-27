@@ -1,0 +1,10 @@
+
+{
+  "pack_version": "1.0.1",
+  "minecraft_version": "1.21.1",
+  "loader": "NeoForge",
+  "patch_notes": [
+    "Crota Launcher 버전 확인 기능 시험",
+    "업데이트 시스템 준비"
+  ]
+}
